@@ -107,3 +107,14 @@ INSERT INTO pegawai (nama, id_jabatan, id_department, gaji_pokok, tunjangan) VAL
 ('Diana Putri', 3, 4, 7500000, 2000000),
 ('Ahmad Rahman', 3, 2, 6500000, 1800000);
 ```
+#### Halaman Total Gaji
+
+
+![image](ss/ss2.png)
+
+
+#### Halaman Tambah Gaji
+
+![image](ss/ss3.png)
+
+## Selesai
